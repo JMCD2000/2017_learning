@@ -1,0 +1,7 @@
+cat
+dog
+llama
+bird
+mouse
+rat
+man

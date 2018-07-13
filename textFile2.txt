@@ -1,0 +1,7 @@
+cat
+lion
+tiger
+cougar
+lynx
+dog
+man

@@ -1,0 +1,15 @@
+import tkinter
+myGui = tk()
+
+myGui.geometry('400x400+350x300')
+# window X by Y size plus upper left coordinates x by Y of desk top screen
+
+myGui.title('my program name') # names the window
+
+mlabel = Label1(text='a label text string', fg='red', bg='blue')
+mlabel.pack() # default is center
+mlabel.place(x=250,y=200) # i place grid coordinates
+mlabel.grid(row=0, column=0)
+
+
+myGui.mainloop() #event listener
